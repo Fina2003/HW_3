@@ -1,0 +1,21 @@
+div{
+    padding-left: 40px;
+    width: 300px;
+    background-color: lightgray;
+}
+ul{
+    list-style-image: url(../img/C.png);
+}
+.fl{
+    list-style-image: url(../img/w.png);
+}
+.fl1{
+    list-style-image: url(../img/aut.png);
+}
+.fl2{
+    list-style-image: url(../img/sum.png);
+}
+.fl3{
+    list-style-image: url(../img/spr.png);
+}
+
